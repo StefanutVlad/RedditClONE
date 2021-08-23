@@ -1,3 +1,44 @@
+./My-Reddit-server/dist
+./My-Reddit-server/node_modules
+./My-Reddit-server/.env
+
+# dependencies
+/my-reddit-web//node_modules
+/my-reddit-web//.pnp
+/my-reddit-web/.pnp.js
+
+# testing
+/my-reddit-web//coverage
+
+# next.js
+/my-reddit-web//.next/
+/my-reddit-web//out/
+
+# production
+/my-reddit-web//build
+
+# misc
+/my-reddit-web/.DS_Store
+/my-reddit-web/*.pem
+
+# debug
+/my-reddit-web/npm-debug.log*
+/my-reddit-web/yarn-debug.log*
+/my-reddit-web/yarn-error.log*
+
+# local env files
+/my-reddit-web/.env.local
+/my-reddit-web/.env.development.local
+/my-reddit-web/.env.test.local
+/my-reddit-web/.env.production.local
+
+# vercel
+/my-reddit-web/.vercel
+
+
+
+
+
 root@147.182.208.12
 sshKey-private.ppk
 sshKey-public
