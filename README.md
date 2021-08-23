@@ -1,3 +1,3 @@
 # RedditClone
 
-![picture](img/poz1-sqlworking.jpg)
+![picture](D:\dev\My-Reddit\poz1-sqlworking.jpg)
